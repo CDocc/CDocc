@@ -1,6 +1,6 @@
 ### Hello there, I'm CDocc a.k.a Chrissy 👋
 ### One of the Owner's of ScoraNetwork 
-![Discord](https://img.shields.io/discord/780161086975770675?label=Discord&logo=Discord)
+![Discord](https://img.shields.io/discord/780900628003946516?label=Discord&logo=Discord)
 
 [![MOXHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDocc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
