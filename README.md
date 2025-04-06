@@ -13,4 +13,4 @@
 <br/> <br/>
 
 [youtube]: https://www.youtube.com/channel/UCdGKcPRX8R9Xc-xoEi-rUzQ
-[discord]: https://discord.gg/scora
+[discord]: https://discord.gg/wy4JHqyArJ
