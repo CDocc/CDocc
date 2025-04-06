@@ -1,5 +1,5 @@
 ### Hello there, I'm CDocc a.k.a Chrissy 👋
-### One of the Owner's of ScoraNetwork 
+### Lead Developer of YourWorld RP
 ![Discord](https://img.shields.io/discord/902974891521896568?label=Discord&logo=Discord)
 
 [![MOXHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDocc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
