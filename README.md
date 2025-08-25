@@ -1,5 +1,5 @@
 ### Hello there, I'm CDocc a.k.a Chrissy 👋
-### Lead Developer of YourWorld RP
+### Lead Developer of Syn Roleplay
 ![Discord](https://img.shields.io/discord/902974891521896568?label=Discord&logo=Discord)
 
 [![MOXHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDocc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
